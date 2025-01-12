@@ -55,12 +55,7 @@ class Header extends Component {
                     { title: "Homestay", url: "homestay" },
                     { title: "Resort", url: "resort" },
                 ],
-            },
-            {
-                title: "About Penang",
-                url: "home", // Matches the state value in App.js
-                Cname: "nav-links",
-            },
+            }
         ];
 
         return (
