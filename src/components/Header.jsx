@@ -62,7 +62,7 @@ class Header extends Component {
             <div>
                 <div className="top-half-background">
                     <video className="background-video" autoPlay loop muted playsInline >
-                        <source src="/video/penangvideo.mp4" type="video/mp4" />
+                        <source src="/videos/penangvideo.mp4" type="video/mp4" />
                             Your browser does not support the video tag.
                     </video>
                 </div>
